@@ -17,7 +17,8 @@ Specifications:
 - Native USB device and HID compliant 
 - Type-C plug with over-current protection 
 - MCP23S17 SPI GPIO expander for rotary encoders
-- CD4067 16-channels multiplexer for switch matrix and faders
+- CD4067 16-channels multiplexer faders
+- Shift registers for switch matrix scanning
 
 Libraries used:
 - FastLED
