@@ -33,4 +33,8 @@ Using a Teensy 2.0 and a breakout board of CD4067 multiplexer and SPI controlled
 
 The setup was meant to have sub-optimal routing of signals and grounding to get a somewhat of an idea on how robust the signal integrity is.
 
+### Photos
 
+![Test Setup](photo/IMG20260302224214_01.jpg)
+
+![Side view](photo/IMG20260302223935.jpg)
