@@ -23,4 +23,14 @@ Libraries used:
 - FastLED
 - ResponsiveAnalogRead
 - MCP23X17
-- CD4067a
+- CD4067
+
+
+## 08.03.2026 - POD & Prototype
+
+Prototype board was ordered through JLCPCB of a x4 module, containing four "modules" of a rotary encoder, fader and three MX switches.
+Using a Teensy 2.0 and a breakout board of CD4067 multiplexer and SPI controlled MCP23S17 GPIO expander all functions and MIDI interface were confirmed working without noticeable delay using MIDI-OX on Windows monitoring incoming MIDI messages.
+
+The setup was meant to have sub-optimal routing of signals and grounding to get a somewhat of an idea on how robust the signal integrity is.
+
+
